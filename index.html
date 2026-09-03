@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Ground Feed — China Leadership Tracker</title>
+<style>
+  :root {
+    --bg: #15171b;
+    --panel: #1c1f24;
+    --line: #2a2e35;
+    --text: #e7e4dc;
+    --muted: #8b8f94;
+    --formal: #a23b2e;
+    --newsletter: #3e7c74;
+    --blog: #b98b3e;
+    --analysis: #6b7fae;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+  }
+  h1, .headline {
+    font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  }
+  header {
+    border-bottom: 1px solid var(--line);
+    padding: 28px 24px 20px;
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  header h1 {
+    font-size: 1.6rem;
+    margin: 0 0 4px;
+    font-weight: 600;
+  }
+  header p {
+    margin: 0;
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+  #updated {
+    color: var(--muted);
+    font-size: 0.8rem;
+    margin-top: 10px;
+  }
+  .controls {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 16px 24px 0;
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .chip {
+    background: transparent;
+    border: 1px solid var(--line);
+    color: var(--muted);
+    padding: 5px 12px;
+    border-radius: 999px;
+    font-size: 0.82rem;
+    cursor: pointer;
+  }
+  .chip.active {
+    border-color: var(--text);
+    color: var(--text);
+  }
+  #search {
+    flex: 1;
+    min-width: 160px;
+    background: var(--panel);
+    border: 1px solid var(--line);
+    color: var(--text);
+    padding: 6px 12px;
+    border-radius: 6px;
+    font-size: 0.85rem;
+  }
+  main {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 16px 24px 60px;
+  }
+  .item {
+    padding: 16px 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .item .meta {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.78rem;
+    color: var(--muted);
+    margin-bottom: 6px;
+  }
+  .dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    display: inline-block;
+    flex-shrink: 0;
+  }
+  .dot.formal { background: var(--formal); }
+  .dot.newsletter { background: var(--newsletter); }
+  .dot.blog { background: var(--blog); }
+  .dot.analysis { background: var(--analysis); }
+  .item a.headline {
+    color: var(--text);
+    text-decoration: none;
+    font-size: 1.08rem;
+    display: block;
+  }
+  .item a.headline:hover { text-decoration: underline; }
+  .item .summary {
+    color: var(--muted);
+    font-size: 0.88rem;
+    margin-top: 4px;
+  }
+  #empty, #loading {
+    color: var(--muted);
+    padding: 40px 0;
+    text-align: center;
+    font-size: 0.9rem;
+  }
+  footer {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 20px 24px 50px;
+    border-top: 1px solid var(--line);
+  }
+  footer h2 {
+    font-size: 0.85rem;
+    color: var(--muted);
+    font-weight: 500;
+    margin: 0 0 10px;
+  }
+  footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  footer a {
+    color: var(--muted);
+    font-size: 0.85rem;
+    text-decoration: none;
+  }
+  footer a:hover { color: var(--text); }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Ground Feed</h1>
+  <p>China leadership &amp; politics — newsletters, analysis, and state media in one river</p>
+  <div id="updated">Loading…</div>
+</header>
+
+<div class="controls">
+  <button class="chip active" data-cat="all">All</button>
+  <button class="chip" data-cat="newsletter">Newsletter</button>
+  <button class="chip" data-cat="analysis">Analysis</button>
+  <button class="chip" data-cat="blog">Blog</button>
+  <button class="chip" data-cat="formal">Formal / state</button>
+  <input id="search" type="text" placeholder="Search titles…" />
+</div>
+
+<main>
+  <div id="loading">Loading feed…</div>
+  <div id="list"></div>
+  <div id="empty" style="display:none">No items match.</div>
+</main>
+
+<footer>
+  <h2>Reference</h2>
+  <ul id="reference"></ul>
+</footer>
+
+<script>
+  const state = { items: [], category: "all", query: "" };
+
+  function timeAgo(iso) {
+    const diffMs = Date.now() - new Date(iso).getTime();
+    const mins = Math.floor(diffMs / 60000);
+    if (mins < 1) return "just now";
+    if (mins < 60) return mins + "m ago";
+    const hrs = Math.floor(mins / 60);
+    if (hrs < 24) return hrs + "h ago";
+    const days = Math.floor(hrs / 24);
+    return days + "d ago";
+  }
+
+  function render() {
+    const list = document.getElementById("list");
+    const empty = document.getElementById("empty");
+    const q = state.query.trim().toLowerCase();
+
+    const filtered = state.items.filter(it => {
+      const catOk = state.category === "all" || it.category === state.category;
+      const qOk = !q || it.title.toLowerCase().includes(q) || it.source.toLowerCase().includes(q);
+      return catOk && qOk;
+    });
+
+    list.innerHTML = filtered.map(it => `
+      <div class="item">
+        <div class="meta">
+          <span class="dot ${it.category}"></span>
+          <span>${it.source}</span>
+          <span>·</span>
+          <span>${timeAgo(it.published)}</span>
+        </div>
+        <a class="headline" href="${it.link}" target="_blank" rel="noopener">${it.title}</a>
+        ${it.summary ? `<div class="summary">${it.summary.replace(/<[^>]*>/g, "")}</div>` : ""}
+      </div>
+    `).join("");
+
+    empty.style.display = filtered.length ? "none" : "block";
+  }
+
+  document.querySelectorAll(".chip").forEach(btn => {
+    btn.addEventListener("click", () => {
+      document.querySelectorAll(".chip").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      state.category = btn.dataset.cat;
+      render();
+    });
+  });
+
+  document.getElementById("search").addEventListener("input", (e) => {
+    state.query = e.target.value;
+    render();
+  });
+
+  async function load() {
+    try {
+      const res = await fetch("data/items.json?_=" + Date.now());
+      const data = await res.json();
+      state.items = data.items || [];
+      document.getElementById("updated").textContent =
+        "Last updated " + new Date(data.updated_at).toLocaleString();
+      document.getElementById("loading").style.display = "none";
+      render();
+    } catch (e) {
+      document.getElementById("loading").textContent =
+        "Couldn't load data/items.json yet — run fetch_feeds.py at least once.";
+    }
+  }
+
+  async function loadReference() {
+    try {
+      const res = await fetch("feeds.json?_=" + Date.now());
+      const data = await res.json();
+      const ul = document.getElementById("reference");
+      ul.innerHTML = (data.reference_links || [])
+        .map(r => `<li><a href="${r.url}" target="_blank" rel="noopener">${r.name}</a></li>`)
+        .join("");
+    } catch (e) { /* non-critical */ }
+  }
+
+  load();
+  loadReference();
+  setInterval(load, 5 * 60 * 1000); // re-poll the JSON every 5 min while the tab is open
+</script>
+
+</body>
+</html>

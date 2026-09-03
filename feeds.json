@@ -1,0 +1,37 @@
+{
+  "rss_sources": [
+    { "name": "Sinocism",              "url": "https://sinocism.com/feed",                              "category": "newsletter" },
+    { "name": "China Power (CSIS)",    "url": "https://chinapower.csis.org/feed",                       "category": "analysis"   },
+    { "name": "Trivium China",         "url": "https://triviumchina.com/feed",                          "category": "newsletter" },
+    { "name": "ChinaTalk",             "url": "https://www.chinatalk.media/feed",                       "category": "newsletter" },
+    { "name": "What's on Weibo",       "url": "https://www.whatsonweibo.com/feed/",                     "category": "blog"       },
+    { "name": "Youshu",                "url": "https://youshu.substack.com/feed",                       "category": "newsletter" },
+    { "name": "East Is Read",          "url": "https://eastisread.substack.com/feed",                   "category": "newsletter" },
+    { "name": "Pekingnology",          "url": "https://www.pekingnology.com/feed",                      "category": "newsletter" },
+    { "name": "China Daily (PRC)",     "url": "http://www.chinadaily.com.cn/rss/china_rss.xml",         "category": "formal"     },
+    { "name": "Caixin Global",         "url": "https://gateway.caixin.com/api/data/global/feedlyRss.xml","category": "formal"    }
+  ],
+  "needs_setup": [
+    {
+      "name": "China Daily Global Edition",
+      "url": "https://global.chinadaily.com.cn/",
+      "note": "No dedicated RSS found. The China Daily feed above covers the main PRC site, not this edition specifically. Needs a homepage/section scraper if you want it separately."
+    },
+    {
+      "name": "Huanqiu (Global Times, Chinese)",
+      "url": "https://3w.huanqiu.com/",
+      "note": "No public RSS. Chinese-language only. Would need a custom scraper; check whether the English-language Global Times (globaltimes.cn) has a usable feed as a substitute."
+    },
+    {
+      "name": "Caixin China (main site)",
+      "url": "https://china.caixin.com/",
+      "note": "Likely overlaps with the Caixin Global gateway feed above. Confirm before building a separate scraper -- may be redundant."
+    }
+  ],
+  "reference_links": [
+    { "name": "Leadership at a Glance - State Council", "url": "https://leadershipataglance.org/state-council.html" },
+    { "name": "Asia Society - Decoding Chinese Politics", "url": "https://asiasociety.org/policy-institute/decoding-chinese-politics" },
+    { "name": "People's Daily - PSC / Politburo roster", "url": "https://cpc.people.com.cn/GB/64162/394696/index.html" },
+    { "name": "Propagandascope - Leaders", "url": "https://propagandascope.org/leaders" }
+  ]
+}
