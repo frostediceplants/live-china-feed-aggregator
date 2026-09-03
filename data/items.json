@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-03T10:51:51.787279+00:00",
+  "updated_at": "2026-09-03T11:12:57.235359+00:00",
   "items": [
+    {
+      "id": "0d20b4b0561bc3f1",
+      "title": "China on the Hugging Face Incident",
+      "link": "https://www.chinatalk.media/p/china-on-the-hugging-face-incident",
+      "source": "ChinaTalk",
+      "category": "newsletter",
+      "published": "2026-09-03T10:53:45+00:00",
+      "summary": "Why Beijing seeks to re-narrate AI safety"
+    },
     {
       "id": "84cab132ba2f3711",
       "title": "Xi talks up “new security architecture” with Egyptian president",
