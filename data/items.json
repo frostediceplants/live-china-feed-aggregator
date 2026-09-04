@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-04T12:19:17.480082+00:00",
+  "updated_at": "2026-09-04T12:45:42.480055+00:00",
   "items": [
+    {
+      "id": "ec7805e9cf8e3f28",
+      "title": "New Open-Access Book: China and the Next Global Order",
+      "link": "https://www.pekingnology.com/p/new-open-access-book-china-and-the",
+      "source": "Pekingnology",
+      "category": "newsletter",
+      "published": "2026-09-04T12:37:34+00:00",
+      "summary": "Henry Huiyao Wang examines the emerging multipolar world and the evolving balance between competition and cooperation among major powers."
+    },
     {
       "id": "10228db782bf9eeb",
       "title": "How Trump and Xi Can Do AI Safety",
