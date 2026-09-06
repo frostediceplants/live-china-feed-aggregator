@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-06T10:42:44.318681+00:00",
+  "updated_at": "2026-09-06T10:54:10.080190+00:00",
   "items": [
+    {
+      "id": "5245d1a6475ed330",
+      "title": "Open Models are the United Front of AI",
+      "link": "https://www.chinatalk.media/p/open-models-are-the-united-front",
+      "source": "ChinaTalk",
+      "category": "newsletter",
+      "published": "2026-09-06T10:45:34+00:00",
+      "summary": "funny Sundays return!"
+    },
     {
       "id": "11d54fa42ef82ee4",
       "title": "Podcast | Nobody knows where the line is, and that’s the problem",
