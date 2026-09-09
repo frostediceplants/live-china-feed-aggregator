@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-09T15:33:01.207348+00:00",
+  "updated_at": "2026-09-09T15:54:14.228733+00:00",
   "items": [
+    {
+      "id": "b65951bad01efe62",
+      "title": "Michael Jinghan Zeng: Inside a Confucius Institute",
+      "link": "https://www.pekingnology.com/p/michael-jinghan-zeng-inside-a-confucius",
+      "source": "Pekingnology",
+      "category": "newsletter",
+      "published": "2026-09-09T15:38:40+00:00",
+      "summary": "Second volume of a memoir from a Confucius Institute director offers an insider&#8217;s account of the ordinary people behind an institution often portrayed in extraordinary terms."
+    },
     {
       "id": "fba25350e89ee93e",
       "title": "US accuses Chinese AI firms of industrial-scale distillation, China responds",
