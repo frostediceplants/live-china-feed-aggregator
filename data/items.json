@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-09T14:55:29.618979+00:00",
+  "updated_at": "2026-09-09T15:14:01.100275+00:00",
   "items": [
+    {
+      "id": "fba25350e89ee93e",
+      "title": "US accuses Chinese AI firms of industrial-scale distillation, China responds",
+      "link": "https://triviumchina.com/2026/09/09/us-accuses-chinese-ai-firms-of-industrial-scale-distillation-china-responds/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-09-09T15:07:20+00:00",
+      "summary": "What happened: On September 8, US intelligence agencies — the NSA, FBI, and CISA — issued a joint advisory alleging that Chinese AI companies have systematically extracted capabilities from US frontier models through distillation. The document names DeepSeek and Moonshot AI as the worst offenders. ... Username Password Remember Me &#160; &#160; Forgot Password"
+    },
     {
       "id": "6d1f2bb5fd74d44f",
       "title": "US automakers press Congress to make Chinese vehicle ban permanent",
@@ -8,7 +17,7 @@
       "source": "Trivium China",
       "category": "newsletter",
       "published": "2026-09-09T13:42:56+00:00",
-      "summary": "What happened: On September 3, Reuters reported that the Alliance for Automotive Innovation (AAI) wrote to Congress urging passage of the Connected Vehicle Security Act by the end of this year. AAI is the lobby representing GM, Ford, Toyota, Volkswagen, Hyundai, Honda, and Stellantis. The bill wou... Username Password Remember Me &#160; &#160; Forgot Password"
+      "summary": "What happened: On September 3, Reuters reported that the Alliance for Automotive Innovation (AAI) wrote to Congress urging passage of the Connected Vehicle Security Act by the end of this year. AAI is the lobby representing GM, Ford, Toyota, Volkswagen, Hyundai, Honda, and Stellantis. The bill wou..."
     },
     {
       "id": "f35fd9fa3575572a",
