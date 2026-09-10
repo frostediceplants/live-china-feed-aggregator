@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-10T14:12:57.001721+00:00",
+  "updated_at": "2026-09-10T14:31:04.858886+00:00",
   "items": [
+    {
+      "id": "d35b560aac943039",
+      "title": "Outside help",
+      "link": "https://www.pekingnology.com/p/outside-help",
+      "source": "Pekingnology",
+      "category": "newsletter",
+      "published": "2026-09-10T14:28:57+00:00",
+      "summary": "Chinese workers discover the leverage of foreign pressure"
+    },
     {
       "id": "6bbc6f60a958dfff",
       "title": "CSRC reportedly curbs key tool for developers’ offshore debt restructurings",
