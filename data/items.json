@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-06T09:27:30.830109+00:00",
+  "updated_at": "2026-10-06T16:12:42.513942+00:00",
   "items": [
+    {
+      "id": "0907aab42e23ff76",
+      "title": "Data is the Hard Part",
+      "link": "https://www.chinatalk.media/p/data-is-the-hard-part",
+      "source": "ChinaTalk",
+      "category": "newsletter",
+      "published": "2026-10-06T11:09:35+00:00",
+      "summary": "Bharat Patel is currently Accenture&#8217;s AI and data lead for its defense portfolio, a former enlisted Navy sailor, and a veteran of the Army acquisition world, with experience at MITRE and across the Department of Defense."
+    },
     {
       "id": "e3406df0ed97be2f",
       "title": "Interdependence and Its Limits | Sinification: September 2026",
