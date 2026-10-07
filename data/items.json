@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-07T06:34:00.709483+00:00",
+  "updated_at": "2026-10-07T13:58:20.720486+00:00",
   "items": [
+    {
+      "id": "632e475b06f89470",
+      "title": "China, the FCC, and the Logic of Transceivers",
+      "link": "https://www.chinatalk.media/p/china-the-fcc-and-the-logic-of-transceivers",
+      "source": "ChinaTalk",
+      "category": "newsletter",
+      "published": "2026-10-07T10:13:11+00:00",
+      "summary": "The dependencies that a potential rule on optical transceivers misses"
+    },
     {
       "id": "b7c459ee32881290",
       "title": "Beijing eases up – Making sense of the economic support package",
