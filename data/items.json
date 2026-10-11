@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-11T07:41:08.527781+00:00",
+  "updated_at": "2026-10-11T14:23:07.603250+00:00",
   "items": [
+    {
+      "id": "6306caa9052c31d0",
+      "title": "10 Takeaways from Q3",
+      "link": "https://www.chinatalk.media/p/10-takeaways-from-q3",
+      "source": "ChinaTalk",
+      "category": "newsletter",
+      "published": "2026-10-11T11:08:09+00:00",
+      "summary": "AI, China, defense, national security, supply chains, the Protestant roots of Kim Il-sung&#8217;s Messiah complex, the lethality of hydrofluoric acid, and horseback archery in Kyrgyzstan."
+    },
     {
       "id": "bd625f4c32acf732",
       "title": "Draft rules put a human between algorithms and gig worker penalties",
