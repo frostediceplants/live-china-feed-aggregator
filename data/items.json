@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-10-12T09:16:47.743687+00:00",
+  "updated_at": "2026-10-12T19:13:59.809379+00:00",
   "items": [
+    {
+      "id": "eee0254cf7d119f7",
+      "title": "Deployment of policy bank seed capital slower than in 2025",
+      "link": "https://triviumchina.com/2026/10/13/deployment-of-policy-bank-seed-capital-slower-than-in-2025/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-10-12T16:59:42+00:00",
+      "summary": "On September 28, Financial News – the central bank’s (PBoC) official publication – disclosed that policy banks have recently deployed RMB 100 billion in seed capital for infrastructure projects. Some context: Infrastructure projects must secure 15–25% of total project funding as seed capital before ... Username Password Remember Me &#160; &#160; Forgot Password"
+    },
+    {
+      "id": "7dd2691c9dc85378",
+      "title": "Huawei says Nvidia’s CUDA lock-in is fading in China",
+      "link": "https://triviumchina.com/2026/10/12/huawei-says-nvidias-cuda-lock-in-is-fading-in-china/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-10-12T15:33:57+00:00",
+      "summary": "AI is eroding Nvidia's CUDA moat. That's according to remarks made by HiSilicon Chief Scientist Liao Heng at a September 17 media roundtable, the transcript of which is now circulating in Chinese media. Liao argued that Chinese frontier labs have moved to new compiler languages to write the low-le..."
+    },
+    {
+      "id": "08b28a6c0bfff0b0",
+      "title": "The Lives of Others",
+      "link": "https://www.pekingnology.com/p/the-lives-of-others",
+      "source": "Pekingnology",
+      "category": "newsletter",
+      "published": "2026-10-12T15:00:27+00:00",
+      "summary": "Four messages shared by a Chinese criminal-defense lawyer, from people trying to make a living, care for their families, and find a way forward."
+    },
+    {
+      "id": "0433f813a1ebaedf",
+      "title": "Beijing extends overseas legal support to the Belt and Road",
+      "link": "https://triviumchina.com/2026/10/12/beijing-extends-overseas-legal-support-to-the-belt-and-road/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-10-12T14:57:01+00:00",
+      "summary": "What happened: On October 10, the Ministry of Justice (MoJ) officially launched Fatong, a national legal-services platform for Chinese companies and citizens operating overseas. It hosts 976 Chinese translations of foreign laws, 512 country legal guides, and 140 case studies covering 187 countries...."
+    },
+    {
+      "id": "62d04329741ef077",
+      "title": "China, EU provide little detail of hybrid vehicle quota agreement",
+      "link": "https://triviumchina.com/2026/10/12/china-eu-provide-little-detail-of-hybrid-vehicle-quota-agreement/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-10-12T13:23:23+00:00",
+      "summary": "Beijing and Brussels are deliberately keeping the terms of their hybrid vehicle export deal unclear. Some context: EU trade commissioner Maroš Šefčovič recently revealed that EU-China trade negotiations had concluded with Beijing agreeing to “halve” hybrid vehicle exports to the EU over the next fou..."
+    },
+    {
+      "id": "8e80dd762db93c56",
+      "title": "Beijing looks set for consumption tax reforms",
+      "link": "https://triviumchina.com/2026/10/12/beijing-looks-set-for-consumption-tax-reforms/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-10-12T13:23:14+00:00",
+      "summary": "We think consumption tax reforms are in the pipeline. On October 1, Qiushi – the Party’s flagship journal – dedicated two articles to discussing the merits of consumption tax reforms. Some context: Consumption taxes – collected at the goods production/import stage – raised RMB 1.69 trillion last y..."
+    },
+    {
+      "id": "8f324be54792ce1e",
+      "title": "Beijing warns officials against wasteful investments amidst push for technological growth",
+      "link": "https://triviumchina.com/2026/10/12/beijing-warns-officials-against-wasteful-investments-amidst-push-for-technological-growth/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-10-12T13:23:01+00:00",
+      "summary": "Officials don’t want the push for technology-led growth to lead to wasteful investment. On October 9, the Party Central Committee and State Council released opinions on developing new quality productive forces (NQPF), China’s umbrella term for technology-led growth. The document lays out leadership..."
+    },
     {
       "id": "6306caa9052c31d0",
       "title": "10 Takeaways from Q3",
@@ -18,6 +81,15 @@
       "category": "newsletter",
       "published": "2026-10-10T17:26:27+00:00",
       "summary": "Beijing wants a person to sign off before an algorithm makes a call as consequential as someone’s income. On October 8, the human resources ministry and six other agencies released draft rules on gig worker protection for public comment. The draft fills a real gap: The official trade union federati... Username Password Remember Me &#160;… <a href=\"https://triviumchina.com/2026/10/11/draft-rules-pu"
+    },
+    {
+      "id": "aaf93821c9e1ad5a",
+      "title": "Draft regulations protect gig workers from algorithmic decision-making",
+      "link": "https://triviumchina.com/2026/10/11/draft-rules-put-a-human-between-algorithms-and-gig-worker-penalties/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-10-10T17:26:27+00:00",
+      "summary": "Beijing wants a human to sign off on major algorithmic decisions affecting gig workers. On October 8, the human resources ministry and six other agencies released draft rules on gig worker protection for public comment. The draft fills a real gap: The employment rights of China’s 84 million gig w..."
     },
     {
       "id": "6721bf4a9c8ad151",
