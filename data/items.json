@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-10-20T09:26:30.481136+00:00",
+  "updated_at": "2026-10-20T14:27:09.137665+00:00",
   "items": [
+    {
+      "id": "717cee31e523170e",
+      "title": "Henry Huiyao Wang: US-China AI talks must ensure safety of both tech and business",
+      "link": "https://www.pekingnology.com/p/henry-huiyao-wang-us-china-ai-talks",
+      "source": "Pekingnology",
+      "category": "newsletter",
+      "published": "2026-10-20T12:09:33+00:00",
+      "summary": "CCG&#8217;s president says a hotline and an ad hoc dialogue are not enough. Safety concerns are growing for both the technology and leveraged tech companies"
+    },
+    {
+      "id": "d64e89c22086b641",
+      "title": "MIIT director calls for preemptive measures to rein in battery overcapacity",
+      "link": "https://triviumchina.com/2026/10/20/miit-director-calls-for-preemptive-measures-to-rein-in-battery-overcapacity/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-10-20T11:51:27+00:00",
+      "summary": "Regulators have a new industry in their anti-involution crosshairs. Speaking at the World Energy Storage Conference on October 15, Yang Xudong – a director at the industry regulator (MIIT) – said: “The new-type battery industry (NTBI) needs to keep growing steadily during the 15th Five-Year Plan pe... Username Password Remember Me &#160; &#160; Forgot Password"
+    },
+    {
+      "id": "5cb11c12ac4a54ca",
+      "title": "Property investment, sales slump continues in September",
+      "link": "https://triviumchina.com/2026/10/20/property-investment-sales-slump-continues-in-september/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-10-20T11:38:35+00:00",
+      "summary": "China’s property sector contraction is showing no signs of letting up. Per data released by the stats bureau (NBS) on October 19: In September, new real estate investment declined 26.3% y/y, roughly in line with August (-25.5%) and July (-27.4%). New construction starts and completion – two key ind..."
+    },
+    {
+      "id": "3abeb736f462fda2",
+      "title": "PBoC eyes greater interest rate marketization, financial stability, RMB internationalization",
+      "link": "https://triviumchina.com/2026/10/20/pboc-eyes-greater-interest-rate-marketization-financial-stability-rmb-internationalization/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-10-20T11:30:48+00:00",
+      "summary": "Central bank (PBoC) Governor Pan Gongsheng is embracing market-based interest rates and moving toward greater RMB internationalization. In a speech on October 19, Pan said the interest rate on overnight repos (DR001) has become the main target of central bank monetary policy adjustments. Noting tha..."
+    },
+    {
+      "id": "9a8b643f0138b659",
+      "title": "US and Chinese officials negotiate on Board of Investment before APEC meeting",
+      "link": "https://triviumchina.com/2026/10/20/us-and-chinese-officials-negotiate-on-board-of-investment-before-apec-meeting/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-10-20T10:49:32+00:00",
+      "summary": "Yeah BOIIIIIIIIIII. On October 20, the SCMP reported that Chinese and American officials are engaged in \"intense negotiations\" on a list of concrete outcomes for the upcoming meeting between Xi Jinping and US President Donald Trump on the sidelines of the APEC summit in Shenzhen next month. The US-C..."
+    },
+    {
+      "id": "92407ef34ec996b6",
+      "title": "The Lithography Lever",
+      "link": "https://www.chinatalk.media/p/the-match-act",
+      "source": "ChinaTalk",
+      "category": "newsletter",
+      "published": "2026-10-20T10:46:15+00:00",
+      "summary": "The case for cutting China off from DUV"
+    },
+    {
+      "id": "265fe4ac33a9556d",
+      "title": "State Council clears the first Price Law revision since 1998",
+      "link": "https://triviumchina.com/2026/10/20/state-council-clears-the-first-price-law-revision-since-1998/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-10-20T10:00:05+00:00",
+      "summary": "On October 16, a State Council executive meeting approved in principle amendments to the Price Law – the first changes since it took effect in 1998. Some context: A July 2025 draft sought to tighten restrictions on below-cost selling, discriminatory pricing, hidden price changes, and forced bundling..."
+    },
+    {
+      "id": "94bc7e5ae1120e4a",
+      "title": "Beijing releases draft export controls on AI technologies",
+      "link": "https://triviumchina.com/2026/10/20/beijing-releases-draft-export-controls-on-ai-technologies/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-10-20T09:50:25+00:00",
+      "summary": "Beijing wants more control over AI exports – without choking off open-weight models. On October 16, the commerce (MofCOM) and science (MoST) ministries proposed adding 23 AI technologies to China's export-control catalog. Prohibited technologies cannot be exported; restricted technologies require a..."
+    },
     {
       "id": "cdf1974b5ddf5fa6",
       "title": "Q3 GDP growth on target; Xi on compute; Export controls; Fifth Plenum watch",
@@ -17,7 +89,7 @@
       "source": "Trivium China",
       "category": "newsletter",
       "published": "2026-10-19T21:16:08+00:00",
-      "summary": "Back in July, we told you that China was considering using its export control regime to manage the outflow of artificial intelligence technologies. That now appears to be happening. On October 16, China's Ministry of Commerce (MofCom) and Ministry of Science and Technology (MoST) jointly released ... Username Password Remember Me &#160; &#160; Forgot Password"
+      "summary": "Back in July, we told you that China was considering using its export control regime to manage the outflow of artificial intelligence technologies. That now appears to be happening. On October 16, China's Ministry of Commerce (MofCom) and Ministry of Science and Technology (MoST) jointly released ..."
     },
     {
       "id": "2b381e2f7deba030",
