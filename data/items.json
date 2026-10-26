@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-10-26T10:23:43.388271+00:00",
+  "updated_at": "2026-10-26T16:52:56.178766+00:00",
   "items": [
+    {
+      "id": "da6365854843b419",
+      "title": "Treasury’s AI investment ban goes wide, but misses the money",
+      "link": "https://triviumchina.com/2026/10/26/treasurys-ai-investment-ban-goes-wide-but-misses-the-money/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-10-26T15:07:07+00:00",
+      "summary": "What happened: On October 22, the US Treasury proposed draft rules implementing the COINS Act, the December 2025 law codifying the outbound investment program. The rules cover US investment in Chinese chips, AI, quantum, supercomputing, hypersonics, and biotech. They apply to equity, joint ventures... Username Password Remember Me &#160; &#160; Forgot Password"
+    },
+    {
+      "id": "9b4e439cc9d1b7f7",
+      "title": "Tax revenue holds up in Q3 but land sales keep sliding",
+      "link": "https://triviumchina.com/2026/10/26/tax-revenue-holds-up-in-q3-but-land-sales-keep-sliding/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-10-26T11:58:01+00:00",
+      "summary": "Price inflation and strong nominal GDP growth are boosting tax revenues. According to data from the finance ministry (MoF), tax revenue grew 7.8% y/y in Q3, the second-fastest quarterly growth in three years after Q2's 8.6% expansion. Among the four largest taxes: Corporate income tax rose 17.5% y/..."
+    },
+    {
+      "id": "f646e8f6f611dde3",
+      "title": "Real income growth slows as inflation erodes consumers’ purchasing power",
+      "link": "https://triviumchina.com/2026/10/26/real-income-growth-slows-as-inflation-erodes-consumers-purchasing-power/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-10-26T11:45:58+00:00",
+      "summary": "Nominal income growth has picked up – but inflation is eroding consumers' spending power. Per the stats bureau’s (NBS) quarterly household survey data, nominal per capita household income – which doesn’t adjust for inflation – grew 5.3% y/y over the first three quarters of this year, up from 5.1% in..."
+    },
+    {
+      "id": "0e8aaf0f997503c4",
+      "title": "NEA moves to integrate renewables and coal-fired power",
+      "link": "https://triviumchina.com/2026/10/26/nea-moves-to-integrate-renewables-and-coal-fired-power/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-10-26T11:34:41+00:00",
+      "summary": "Regulators want coal-fired power (CFP) to more effectively backstop intermittent renewable energy. On October 21, the energy regulator (NEA) issued guidelines to coordinate the development of renewables and coal-fired power (CFP) projects. Some context: China’s grid is struggling to handle the int..."
+    },
+    {
+      "id": "46ce270688215a7a",
+      "title": "State Council plans for AI job losses, adds jobs review for risky deployments",
+      "link": "https://triviumchina.com/2026/10/26/state-council-plans-for-ai-job-losses-adds-jobs-review-for-risky-deployments/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-10-26T10:39:15+00:00",
+      "summary": "Beijing knows AI will destroy jobs – but it's betting AI will create even more. On October 23, the State Council General Office released guidelines on adapting to AI and building an \"employment-friendly\" development model. Some context: Beijing promised to address AI-driven job displacement back in ..."
+    },
+    {
+      "id": "99fe4b716142859e",
+      "title": "EU prepares further restrictions on Chinese imports",
+      "link": "https://triviumchina.com/2026/10/26/eu-prepares-further-restrictions-on-chinese-imports/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-10-26T10:29:48+00:00",
+      "summary": "At an informal meeting of EU trade ministers in Dublin on Friday, EU Trade Commissioner Maroš Šefčovič signaled that Chinese plastics could be the next target for import restrictions. \"Currently, I think the plastics sector is the closest,\" Šefčovič said, adding that Brussels is assessing whether t..."
+    },
     {
       "id": "adea31107ec776ad",
       "title": "North Korea’s Kim makes surprise visit to Dandong",
@@ -8,7 +62,7 @@
       "source": "Trivium China",
       "category": "newsletter",
       "published": "2026-10-26T10:16:48+00:00",
-      "summary": "How's that for a physical metaphor? On October 24, North Korean Supreme Leader Kim Jong Un paid a surprise one-day visit to the Chinese city of Dandong via the New Yalu River Bridge which opened earlier this month. ICYDK: The Yalu River marks the border between China and North Korea. China accounts... Username Password Remember… <a href=\"https://triviumchina.com/2026/10/26/north-koreas-kim-makes-s"
+      "summary": "How's that for a physical metaphor? On October 24, North Korean Supreme Leader Kim Jong Un paid a surprise one-day visit to the Chinese city of Dandong via the New Yalu River Bridge which opened earlier this month. ICYDK: The Yalu River marks the border between China and North Korea. China accounts..."
     },
     {
       "id": "3fc4623802b19386",
@@ -20,8 +74,26 @@
       "summary": "Beijing wants people to have more babies. On October 23, Premier Li Qiang chaired a State Council executive meeting focused on arresting China's declining birth rate. The meeting called for: “Optimizing fiscal, tax, social security and housing support measures for families, and striving to stabiliz..."
     },
     {
+      "id": "9f9f944ccca5ba6f",
+      "title": "State Council sets its sights on raising the birth rate",
+      "link": "https://triviumchina.com/2026/10/26/state-council-names-three-levers-to-stop-the-fall-in-births/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-10-26T10:05:44+00:00",
+      "summary": "Beijing wants people to have more babies. On October 23, Premier Li Qiang chaired a State Council executive meeting focused on arresting China's declining birth rate. The meeting called for: “Optimizing fiscal, tax, social security and housing support measures for families, and striving to stabiliz..."
+    },
+    {
       "id": "c86008c7a69c80d4",
       "title": "Ready Player Wan: 10,000 Talents of Gaming",
+      "link": "https://www.chinatalk.media/p/ready-player-wan-10000-talents-of",
+      "source": "ChinaTalk",
+      "category": "newsletter",
+      "published": "2026-10-26T10:03:44+00:00",
+      "summary": "Essay Contest Winner!"
+    },
+    {
+      "id": "e90dd49e25892afd",
+      "title": "China's 10,000 Gaming Talents",
       "link": "https://www.chinatalk.media/p/ready-player-wan-10000-talents-of",
       "source": "ChinaTalk",
       "category": "newsletter",
