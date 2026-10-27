@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-27T16:41:08.731132+00:00",
+  "updated_at": "2026-10-27T20:59:46.738138+00:00",
   "items": [
+    {
+      "id": "f8419df2b876b5eb",
+      "title": "Shanghai targets 8,000 humanoid robots in factories by 2028",
+      "link": "https://triviumchina.com/2026/10/28/shanghai-targets-8000-humanoid-robots-in-factories-by-2028/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-10-27T20:16:18+00:00",
+      "summary": "What happened: On October 27, the Shanghai economy and informatization commission (SHEITC) published an action plan to accelerate next-generation smart manufacturing, aimed at fusing AI through the city's entire manufacturing chain by 2028. What jumped out: The plan aims for 8,000 humanoid robots de... Username Password Remember Me &#160; &#160; Forgot Password"
+    },
+    {
+      "id": "33e4ac89a2c40ba4",
+      "title": "MPS founds new force to police drones",
+      "link": "https://triviumchina.com/2026/10/28/mps-founds-new-force-to-police-drones/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-10-27T19:06:43+00:00",
+      "summary": "This is neat: On October 22, a notice issued by the Sichuan provincial police department (MPS) on WeChat, along with some other hints, suggests that MPS has founded a new Bureau of Unmanned Aircraft Security. Why: We presume that China's low-altitude economy push, which has resulted in a proliferati..."
+    },
+    {
+      "id": "24c37dceeee32bbc",
+      "title": "Moonshot dials down Kimi’s cyber capability before weight release",
+      "link": "https://triviumchina.com/2026/10/28/moonshot-dials-down-kimis-cyber-capability-before-weight-release/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-10-27T19:02:17+00:00",
+      "summary": "What happened: On October 24, Moonshot AI released Kimi K3.1 Pro, a post-trained version of its Kimi K3 model, with open weights due by November 4. What caught our eye: Though the model posts strong benchmark scores, Moonshot deliberately weakened its cyber capabilities. Moonshot removed cyber-rela..."
+    },
     {
       "id": "659c803d2ec75dc9",
       "title": "PBoC launches new swap facility to manage bond crises",
@@ -8,7 +35,7 @@
       "source": "Trivium China",
       "category": "newsletter",
       "published": "2026-10-27T12:57:32+00:00",
-      "summary": "China’s central bank (PBoC) has launched a new tool to manage liquidity shortfalls in the bond market. On October 26, the PBoC said it will deploy the facility – the Bond Market Non-Bank Large-Scale Redemption Swap Facility (BNSF) – when: “Asset management institutions face collective liquidity ris... Username Password Remember Me &#160; &#160; Forgot Password"
+      "summary": "China’s central bank (PBoC) has launched a new tool to manage liquidity shortfalls in the bond market. On October 26, the PBoC said it will deploy the facility – the Bond Market Non-Bank Large-Scale Redemption Swap Facility (BNSF) – when: “Asset management institutions face collective liquidity ris..."
     },
     {
       "id": "a3ac53b64b7da031",
