@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T19:25:16.640610+00:00",
+  "updated_at": "2026-11-01T22:58:18.758507+00:00",
   "items": [
     {
       "id": "630f5afc27847310",
@@ -9,6 +9,15 @@
       "category": "newsletter",
       "published": "2026-11-01T13:33:33+00:00",
       "summary": "Richard Gray is an analyst who works for a foreign policy think tank in Washington, D.C."
+    },
+    {
+      "id": "f788bd228f14c409",
+      "title": "The chemo continues",
+      "link": "https://youshu.substack.com/p/the-chemo-continues",
+      "source": "Youshu",
+      "category": "newsletter",
+      "published": "2026-11-01T13:11:38+00:00",
+      "summary": "The Fifth Plenum and more tightening of the Party discipline system"
     },
     {
       "id": "b2eca9c2aa255c46",
@@ -27,6 +36,15 @@
       "category": "newsletter",
       "published": "2026-10-31T14:20:31+00:00",
       "summary": "It’s been more than a year since Beijing launched its anti-involution campaign to stop industries sinking into destructive price wars. It hasn’t worked. Now, regulators are changing tack. Rather than regulating what manufacturers charge, they are going after the root of the problem – tackling the ... Username Password Remember Me &#160; &#160; Forgot Password"
+    },
+    {
+      "id": "9488882b9380e232",
+      "title": "Zhang Ming: China Needs Reform, but Not the IMF’s Prescription",
+      "link": "https://www.eastisread.com/p/zhang-ming-china-needs-reform-but",
+      "source": "East Is Read",
+      "category": "newsletter",
+      "published": "2026-10-31T12:20:35+00:00",
+      "summary": "CASS economist accepts much of the Fund&#8217;s diagnosis but argues that stronger consumption should go hand in hand with manufacturing, investment and a reworked industrial policy."
     },
     {
       "id": "0401d02fc265cc32",
