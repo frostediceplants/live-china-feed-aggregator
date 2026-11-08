@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-11-08T07:48:02.762168+00:00",
+  "updated_at": "2026-11-08T14:51:44.262929+00:00",
   "items": [
+    {
+      "id": "5e892492d6c84f52",
+      "title": "Why the Cyberpocalypse Might Hit China Harder",
+      "link": "https://www.chinatalk.media/p/china-in-the-cyberpocalypse",
+      "source": "ChinaTalk",
+      "category": "newsletter",
+      "published": "2026-11-08T11:03:30+00:00",
+      "summary": "In August, researchers at a California security firm used an OpenAI model to find a software bug in PHP, a programming language that undergird some seventy per cent of the world&#8217;s websites, including Wikipedia and WordPress."
+    },
     {
       "id": "b7962c1f667f1efa",
       "title": "Democrats take US Congress | The weekly recap",
