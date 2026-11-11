@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-11T12:58:14.558039+00:00",
+  "updated_at": "2026-11-11T20:07:40.678940+00:00",
   "items": [
+    {
+      "id": "b93eca29550e0816",
+      "title": "Personal Day",
+      "link": "https://sinocism.com/p/personal-day",
+      "source": "Sinocism",
+      "category": "newsletter",
+      "published": "2026-11-11T19:30:40+00:00",
+      "summary": "Apologies, I am taking a personal day today."
+    },
+    {
+      "id": "b6ba34ba592c7a1c",
+      "title": "Former banking regulator proposes new taxes, SOE equity transfers to shore up pensions",
+      "link": "https://triviumchina.com/2026/11/11/former-banking-regulator-proposes-new-taxes-soe-equity-transfers-to-shore-up-pensions/",
+      "source": "Trivium China",
+      "category": "newsletter",
+      "published": "2026-11-11T13:26:26+00:00",
+      "summary": "Guo Shuqing – former head of China’s banking and insurance regulator – wants to see bold steps to shore up China’s pension system. In a recent article, Guo noted that China’s state pension fund is on track to be depleted by 2035, and warned that authorities must act. He also argued that rural pensio... Username… <a href=\"https://triviumchina.com/2026/11/11/former-banking-regulator-proposes-new-tax"
+    },
     {
       "id": "574efb0154019bf9",
       "title": "CAC unifies its tech filing systems",
@@ -8,7 +26,7 @@
       "source": "Trivium China",
       "category": "newsletter",
       "published": "2026-11-11T12:40:40+00:00",
-      "summary": "What happened: On November 9, the cyberspace regulator (CAC) launched a unified filing system for \"new technologies and new applications.\" It brings filing for generative AI, algorithms, deep synthesis, and blockchain onto one platform. Legacy systems were switched off the same day. Some context: ... Username Password Remember Me &#160; &#160; Forgot Password"
+      "summary": "What happened: On November 9, the cyberspace regulator (CAC) launched a unified filing system for \"new technologies and new applications.\" It brings filing for generative AI, algorithms, deep synthesis, and blockchain onto one platform. Legacy systems were switched off the same day. Some context: ..."
     },
     {
       "id": "cd8f13de653d5e20",
