@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T12:31:26.952443+00:00",
+  "updated_at": "2026-11-14T18:30:44.889410+00:00",
   "items": [
     {
       "id": "db412bbfd391be2c",
@@ -414,6 +414,15 @@
       "category": "newsletter",
       "published": "2026-11-08T11:03:30+00:00",
       "summary": "In August, researchers at a California security firm used an OpenAI model to find a software bug in PHP, a programming language that undergird some seventy per cent of the world&#8217;s websites, including Wikipedia and WordPress."
+    },
+    {
+      "id": "e62acf628494b303",
+      "title": "The Qincheng prison boom",
+      "link": "https://youshu.substack.com/p/the-qincheng-prison-boom",
+      "source": "Youshu",
+      "category": "newsletter",
+      "published": "2026-11-07T14:04:13+00:00",
+      "summary": "At least one construction firm has been making money these last years."
     },
     {
       "id": "b7962c1f667f1efa",
