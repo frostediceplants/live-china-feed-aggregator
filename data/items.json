@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-23T21:41:45.958302+00:00",
+  "updated_at": "2026-11-24T05:34:55.619191+00:00",
   "items": [
+    {
+      "id": "5d2f97b5486f9f34",
+      "title": "Jensen Returns",
+      "link": "https://www.chinatalk.media/p/jensen-returns",
+      "source": "ChinaTalk",
+      "category": "newsletter",
+      "published": "2026-11-24T01:41:25+00:00",
+      "summary": "With Chris McGuire and Peter Harrell"
+    },
+    {
+      "id": "86b6d941c5dbf4e3",
+      "title": "Trump reinstates Jensen Huang; More measures to stabilize PRC stock market; October fiscal surplus",
+      "link": "https://sinocism.com/p/trump-reinstates-jensen-huang-more",
+      "source": "Sinocism",
+      "category": "newsletter",
+      "published": "2026-11-23T22:52:46+00:00",
+      "summary": "President Trump&#8217;s re-installation of Jensen Huang at Nvidia increases the likelihood of the MATCH Act, RASA (Remote Access Security Act), and AI OVERWATCH Acts passing, perhaps right around the G20 in Miami next month."
+    },
     {
       "id": "117ea683cb14b459",
       "title": "Jensen makes a comeback",
